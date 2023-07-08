@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+h2,h3 {
+    color: #484c52 !important;
+}
+path {
+   color: #617083 !important; 
+}
+.blue .setting {
+    color: #2aa7ff !important;
+}
+
+.setting{
+    color: #2aa7ff !important;
+}
